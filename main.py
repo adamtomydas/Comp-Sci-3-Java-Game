@@ -17,7 +17,7 @@ while run:
 pygame.quit()
 
 
-
+print("test")
 
 def Game():
     print()
